@@ -4,12 +4,6 @@
 21482 Group 1
 
 ## Team Members:
-# Group 1 MIST4610 Group Project 2
-
-## Team Name:
-21482 Group 1
-
-## Team Members:
 1. Sophie Naustdal https://github.com/sophienaustdal/MIST4610GroupProject2.git
 2. Riley Cook https://github.com/rileyacook/4610Proj2 
 3. Rachel Chuan https://github.com/rachelchuan/mist4610groupproj2/blob/main/README.md
